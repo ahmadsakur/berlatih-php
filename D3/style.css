@@ -1,0 +1,27 @@
+.navbar a img {
+   height: 60px;
+}
+
+.nav-link {
+   color: black;
+}
+
+.nav-tengah li {
+   margin-right: 20px;
+   margin-left: 20px;
+   margin-bottom: 30px;
+}
+
+.container-kartu {
+   margin-top: 20px;
+}
+
+.container-footer {
+   margin-top: 500px;
+}
+
+.container-footer img {
+   width: 20px;
+   margin-left: 12px;
+   margin-right: 12px;
+}
